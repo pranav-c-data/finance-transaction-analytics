@@ -17,21 +17,33 @@ The dashboard is designed to provide both a high-level view of financial perform
 
 ---
 
-## 🎯 Project Objective
+## 🎯 Business Objective
 
-The objective of this project is to analyze financial transaction data and identify trends and patterns in transaction activity, customer behavior, transaction performance, fees, taxes, and geographic distribution.
+The objective of this project is to analyze financial transaction activity and provide insights into:
 
-The dashboard helps answer questions such as:
+- Transaction volume and value
+- Transaction success and failure patterns
+- Customer segment performance
+- Transaction trends over time
+- State-wise transaction activity
+- Transaction type performance
+- Transaction fees and tax
+- Gender-wise transaction activity
+- Overall financial transaction patterns
 
-- What is the overall transaction volume and value?
-- How are transactions changing over time?
-- What proportion of transactions are successful, pending, or failed?
-- Which customer segments generate the most transactions?
-- Which transaction types contribute the highest transaction amounts?
-- Which states have the highest transaction activity?
-- How much is generated through transaction fees and taxes?
-- How are transactions distributed by gender?
-- What are the details of individual transactions?
+---
+
+## 🔎 Key Business Questions
+
+- What is the total transaction value and number of transactions?
+- How do transaction volumes and values change over time?
+- What percentage of transactions are successful, pending, or failed?
+- Which customer segments generate the highest transaction activity?
+- Which states have the highest transaction volume?
+- Which transaction types are most commonly used?
+- How do transaction fees and taxes vary across transactions?
+- How does transaction activity differ by gender?
+- What patterns can be identified from the overall transaction data?
 
 ---
 
