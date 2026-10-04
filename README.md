@@ -120,18 +120,6 @@ Transaction activity varied throughout the year, with noticeable changes in mont
 
 ---
 
-## 🛠️ Tools & Technologies
-
-- **Microsoft Power BI**
-- **DAX**
-- Data visualization
-- Data modeling
-- Interactive dashboards
-- KPI analysis
-- Slicers and filters
-
----
-
 ## 💡 Power BI Features Used
 
 - KPI cards
@@ -145,3 +133,25 @@ Transaction activity varied throughout the year, with noticeable changes in mont
 - Cross-filtering and visual interactions
 - Conditional formatting
 - Dashboard navigation
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Microsoft Power BI**
+- **DAX**
+- Data visualization
+- Data modeling
+- Interactive dashboards
+- KPI analysis
+- Slicers and filters
+
+---
+
+## 👤 Project Type
+
+**Data Analytics / Business Intelligence**
+
+**Domain:** Finance / Financial Transactions
+
+**Primary Tool:** Microsoft Power BI
