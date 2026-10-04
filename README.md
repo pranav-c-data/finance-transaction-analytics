@@ -53,11 +53,13 @@ The dashboard was designed to answer questions such as:
 
 The dashboard provides the following key performance indicators:
 
-- **Total Transaction Amount:** ₹135.62M
-- **Total Transactions:** 15.03K
-- **Average Transaction Value:** ₹9.02K
-- **Total Fees:** ₹217.30K
-- **Total Tax:** ₹39.14K
+| *KPI* | *Value* |
+|---|---:|
+| Total Transaction Amount | ₹135.62M |
+| Total Transactions | 15.03K |
+| Average Transaction Value | ₹9.02K |
+| Total Fees | ₹217.30K |
+| Total Tax | ₹39.14K |
 
 ---
 
