@@ -53,7 +53,7 @@ The dashboard was designed to answer questions such as:
 
 The dashboard provides the following key performance indicators:
 
-| *KPI* | *Value* |
+| KPI | Value |
 |---|---:|
 | Total Transaction Amount | ₹135.62M |
 | Total Transactions | 15.03K |
