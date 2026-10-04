@@ -35,6 +35,8 @@ The objective of this project is to analyze financial transaction activity and p
 
 ## 🔎 Key Business Questions
 
+The dashboard was designed to answer questions such as:
+
 - What is the total transaction value and number of transactions?
 - How do transaction volumes and values change over time?
 - What percentage of transactions are successful, pending, or failed?
