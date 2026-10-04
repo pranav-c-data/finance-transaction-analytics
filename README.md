@@ -110,7 +110,7 @@ The page also includes interactive filters that allow users to explore the trans
 
 ---
 
-## 🔎 Key Insights
+## 💡 Key Insights
 
 ### Transaction Status
 
