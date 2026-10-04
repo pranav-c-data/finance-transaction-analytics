@@ -134,7 +134,7 @@ Transaction activity varied throughout the year, with noticeable changes in mont
 
 ---
 
-## 💡 Power BI Features Used
+## 📊 Power BI Features Used
 
 - KPI cards
 - Line charts
